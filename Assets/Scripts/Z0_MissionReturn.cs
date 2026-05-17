@@ -18,7 +18,7 @@ public class Z0_MissionReturn : MonoBehaviour
         if (missionNumber >= 1 && missionNumber <= 10)
         {
             // 인스펙터에서 설정한 결과(성공 또는 실패)를 저장소에 기록!
-            Z0_MissionData.missionStates[missionNumber] = resultState;
+            Z0_GameData.missionStates[missionNumber] = resultState;
         }
 
         // 연구실 메인 허브 씬으로 복귀

@@ -6,17 +6,32 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Zone2/Z2_S4_Expand.unity
-    guid: d714476839d21ed43ac70f15681aee7c
-  - enabled: 1
-    path: Assets/Scenes/Zone2/Z2_S3_Limit.unity
-    guid: a89bbff941c503b4d99202b91f7303d2
+    path: Assets/Scenes/Zone0/Z0_S0_Start.unity
+    guid: 4861491e2607adf469d12dddfeb798b9
   - enabled: 1
     path: Assets/Scenes/Zone1/Z1_S1_Limit.unity
     guid: b0ef7c3703766774fbd29bbb8dd496cf
   - enabled: 1
     path: Assets/Scenes/Zone1/Z1_S2_Expand.unity
     guid: eb17d0d50b9acb54ba20f95ecbd916ac
+  - enabled: 1
+    path: Assets/Scenes/Zone2/Z2_S3_Limit.unity
+    guid: a89bbff941c503b4d99202b91f7303d2
+  - enabled: 1
+    path: Assets/Scenes/Zone2/Z2_S4_Expand.unity
+    guid: d714476839d21ed43ac70f15681aee7c
+  - enabled: 1
+    path: Assets/Scenes/Zone3/Z3_S5_Limit.unity
+    guid: 6a3f0d015f0ea5f418daeed836ffd25a
+  - enabled: 1
+    path: Assets/Scenes/Zone3/Z3_S6_Expand.unity
+    guid: 70e9e0c3b91e00b40a4a0ef9de7c24a7
+  - enabled: 1
+    path: Assets/Scenes/Zone4/Z4_S7_Limit.unity
+    guid: 2bd5b9930c732ed4da123e1ccfb06a39
+  - enabled: 1
+    path: Assets/Scenes/Zone4/Z4_S8_Expand.unity
+    guid: b78e657a4c9028a48a4d3aa97a7418a8
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e94f7ac8d074ab447beef0883e65c003, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 35a003d5eedb4db42ba9946bdf5b5f8e, type: 2}

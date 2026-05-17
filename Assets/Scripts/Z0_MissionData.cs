@@ -2,17 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum MissionState
+// 프로젝트 창에서 마우스 우클릭 -> Create -> ScriptableObjects -> MissionData로 미션 파일 생성 가능
+[CreateAssetMenu(fileName = "NewMission", menuName = "ScriptableObjects/MissionData")]
+public class MissionData : ScriptableObject
 {
-    NotStarted, // 아직 안함 (기본값)
-    Success,    // 미션 성공
-    Failed      // 미션 실패
-}
-
-public class Z0_MissionData : MonoBehaviour
-{
-    // 미션 1~10번의 상태를 담는 배열 (기본값은 전부 NotStarted)
-    public static MissionState[] missionStates = new MissionState[11];
-
-    public static int currentMissionNumber = 1;
+    public int missionNumber;          // 미션 번호 (1~10)
+    public string missionTitle;        // 미션 제목
+    [TextArea(3, 10)]
+    public string missionDescription;  // 미션 상세 설명 (줄바꿈 가능)
+    public string targetSceneName;     // 이동할 씬 이름
 }
