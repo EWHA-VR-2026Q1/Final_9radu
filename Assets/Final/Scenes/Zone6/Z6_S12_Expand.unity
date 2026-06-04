@@ -12687,8 +12687,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34586339808d78a47a32323e049e5025, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isMissionCleared: 0000000000000000000000
-  isMissionFailed: 0000000000000000000000
+  isMissionCleared: 0000010001000100010001
+  isMissionFailed: 0001000100010001000100
 --- !u!1 &534360367
 GameObject:
   m_ObjectHideFlags: 0
@@ -19365,7 +19365,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Mission 9
+  m_text: "\uCD08\uAC10\uAC01 \uC778\uC9C0 \uAC15\uD654"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1ccec30d82fc4e841ad1d54480ee708f, type: 2}
   m_sharedMaterial: {fileID: 5386756678483218268, guid: 1ccec30d82fc4e841ad1d54480ee708f, type: 2}
@@ -20659,7 +20659,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Mission 10
+  m_text: "\uCD08\uAC10\uAC01 \uC778\uC9C0 \uAC15\uD654 (2)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1ccec30d82fc4e841ad1d54480ee708f, type: 2}
   m_sharedMaterial: {fileID: 5386756678483218268, guid: 1ccec30d82fc4e841ad1d54480ee708f, type: 2}
@@ -34344,7 +34344,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fadeImage: {fileID: 6816477}
-  fadeDuration: 2
+  fadeDuration: 3
 --- !u!4 &1675740443
 Transform:
   m_ObjectHideFlags: 0
