@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f80a2342ca94da7488c42ff268d8591f, type: 3}
+  m_Name: Mission_02
+  m_EditorClassIdentifier: 
+  missionNumber: 0
+  missionTitle: "\uC2E0\uCCB4 \uB2A5\uB825 \uAC15\uD654 (2)"
+  missionDescription: "\uC794\uD574\uB97C \uC9C0\n\uAC74\uBB3C \uB0B4\uBD80\uB85C
+    \uC9C4\uC785\uD558\uC138\uC694\n\n+ \uC774\uB3D9\uC18D\uB3C4 \uBC0F \uC810\uD504\n\uD55C\uACC4
+    \uB3CC\uD30C"
+  targetSceneName: Z1_S2_Expand
