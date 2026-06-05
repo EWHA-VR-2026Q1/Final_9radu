@@ -307,25 +307,65 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4311512857511012, guid: 949cac64006073b489556d076d0c3696, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.59
-      objectReference: {fileID: 0}
-    - target: {fileID: 4311512857511012, guid: 949cac64006073b489556d076d0c3696, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.27
-      objectReference: {fileID: 0}
-    - target: {fileID: 4868471994453908, guid: 949cac64006073b489556d076d0c3696, type: 3}
+    - target: {fileID: 4195299401686066, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4195299401686066, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4195299401686066, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4311512857511012, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4311512857511012, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4311512857511012, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489218081272030, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489218081272030, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489218081272030, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761543006165336, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761543006165336, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761543006165336, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4868471994453908, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.053
+      objectReference: {fileID: 0}
     - target: {fileID: 4868471994453908, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5
+      value: 1.679
       objectReference: {fileID: 0}
     - target: {fileID: 4868471994453908, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7
+      value: -0.869
       objectReference: {fileID: 0}
     - target: {fileID: 4868471994453908, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_LocalRotation.w
@@ -403,10 +443,22 @@ PrefabInstance:
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114437608515495994, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: _trackedObject
+      value: 
+      objectReference: {fileID: 2001143290}
+    - target: {fileID: 114438148865620994, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: _trackedObject
+      value: 
+      objectReference: {fileID: 2001143290}
     - target: {fileID: 114439868619518296, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114562499627957514, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: _trackedObject
+      value: 
+      objectReference: {fileID: 2001143290}
     - target: {fileID: 114596748454620874, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_Color.b
       value: 0.84313726
@@ -415,6 +467,10 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 0.29803923
       objectReference: {fileID: 0}
+    - target: {fileID: 114672473361617022, guid: 949cac64006073b489556d076d0c3696, type: 3}
+      propertyPath: _trackedObject
+      value: 
+      objectReference: {fileID: 2001143290}
     - target: {fileID: 114748756652297420, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_Color.b
       value: 0.84313726
@@ -554,19 +610,19 @@ PrefabInstance:
     - target: {fileID: 223044210612409834, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_Camera
       value: 
-      objectReference: {fileID: 1225290365}
+      objectReference: {fileID: 2001143291}
     - target: {fileID: 223057936132387618, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_Camera
       value: 
-      objectReference: {fileID: 1225290365}
+      objectReference: {fileID: 2001143291}
     - target: {fileID: 223161994793414192, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_Camera
       value: 
-      objectReference: {fileID: 1225290365}
+      objectReference: {fileID: 2001143291}
     - target: {fileID: 223249539162450066, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_Camera
       value: 
-      objectReference: {fileID: 1225290365}
+      objectReference: {fileID: 2001143291}
     - target: {fileID: 223249539162450066, guid: 949cac64006073b489556d076d0c3696, type: 3}
       propertyPath: m_AdditionalShaderChannelsFlag
       value: 25
@@ -45656,7 +45712,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: cda4a45a00c8f5942ad425cc580e819d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.25
+  m_Volume: 0.311
   m_Pitch: 0.7
   Loop: 1
   Mute: 0

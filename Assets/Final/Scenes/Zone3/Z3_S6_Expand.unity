@@ -149,7 +149,7 @@ Transform:
   m_GameObject: {fileID: 39359355}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 1.0499989, z: 1.0000174}
+  m_LocalPosition: {x: 0.2, y: 1.0499989, z: 0.45}
   m_LocalScale: {x: 0.90000004, y: 0.90000004, z: 0.59999996}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -245,7 +245,7 @@ ParticleSystem:
   ringBufferLoopRange: {x: 0, y: 1}
   emitterVelocityMode: 1
   looping: 1
-  prewarm: 0
+  prewarm: 1
   playOnAwake: 1
   useUnscaledTime: 0
   autoRandomSeed: 1
@@ -6645,7 +6645,7 @@ Transform:
   m_GameObject: {fileID: 502781540}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -3, y: 1.0499791, z: 2}
+  m_LocalPosition: {x: -0.29, y: 1.05, z: -0.15}
   m_LocalScale: {x: 0.90000004, y: 0.9, z: 0.6000001}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6741,7 +6741,7 @@ ParticleSystem:
   ringBufferLoopRange: {x: 0, y: 1}
   emitterVelocityMode: 1
   looping: 1
-  prewarm: 0
+  prewarm: 1
   playOnAwake: 1
   useUnscaledTime: 0
   autoRandomSeed: 1
@@ -11866,7 +11866,7 @@ Transform:
   m_GameObject: {fileID: 568617717}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -4, y: 1.0499989, z: -1.0000174}
+  m_LocalPosition: {x: -0.12, y: 1.05, z: 0.11}
   m_LocalScale: {x: 0.90000004, y: 0.90000004, z: 0.59999996}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11962,7 +11962,7 @@ ParticleSystem:
   ringBufferLoopRange: {x: 0, y: 1}
   emitterVelocityMode: 1
   looping: 1
-  prewarm: 0
+  prewarm: 1
   playOnAwake: 1
   useUnscaledTime: 0
   autoRandomSeed: 1
@@ -23141,7 +23141,7 @@ ParticleSystem:
   ringBufferLoopRange: {x: 0, y: 1}
   emitterVelocityMode: 1
   looping: 1
-  prewarm: 0
+  prewarm: 1
   playOnAwake: 1
   useUnscaledTime: 0
   autoRandomSeed: 1
@@ -28837,7 +28837,7 @@ Transform:
   m_GameObject: {fileID: 1142518852251382}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.612, y: -0.29699993, z: -1.3400002}
+  m_LocalPosition: {x: 0, y: 0, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -28883,7 +28883,7 @@ Transform:
   m_GameObject: {fileID: 1127487397061624}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.59, y: -0.27, z: -1.3400002}
+  m_LocalPosition: {x: 0, y: 0, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -28899,7 +28899,7 @@ Transform:
   m_GameObject: {fileID: 1930150578568308}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.612, y: -0.29699993, z: -1.06}
+  m_LocalPosition: {x: 0, y: 0, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -28945,7 +28945,7 @@ Transform:
   m_GameObject: {fileID: 1411852611664640}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.612, y: -0.29699993, z: -1.3400002}
+  m_LocalPosition: {x: 0, y: 0, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -28991,7 +28991,7 @@ Transform:
   m_GameObject: {fileID: 1995176075359472}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5, z: -7}
+  m_LocalPosition: {x: -0.04, y: 1.7, z: -5.73}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -29437,7 +29437,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c8be76f8df0a684cbe0999c81e5c8f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _trackedObject: {fileID: 0}
+  _trackedObject: {fileID: 736825117}
   _track: 1
   _rotateSpeed: 0.15
   _deltaX: 0
@@ -29454,7 +29454,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c8be76f8df0a684cbe0999c81e5c8f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _trackedObject: {fileID: 0}
+  _trackedObject: {fileID: 736825117}
   _track: 1
   _rotateSpeed: 0.2
   _deltaX: 0
@@ -29494,7 +29494,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c8be76f8df0a684cbe0999c81e5c8f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _trackedObject: {fileID: 0}
+  _trackedObject: {fileID: 736825117}
   _track: 1
   _rotateSpeed: 0.5
   _deltaX: 0
@@ -29555,7 +29555,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c8be76f8df0a684cbe0999c81e5c8f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _trackedObject: {fileID: 0}
+  _trackedObject: {fileID: 736825117}
   _track: 1
   _rotateSpeed: 0.12
   _deltaX: 0
@@ -30572,7 +30572,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 2
-  m_Camera: {fileID: 2011444359}
+  m_Camera: {fileID: 736825118}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -30595,7 +30595,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 2
-  m_Camera: {fileID: 2011444359}
+  m_Camera: {fileID: 736825118}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -30618,7 +30618,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 2
-  m_Camera: {fileID: 2011444359}
+  m_Camera: {fileID: 736825118}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -30641,7 +30641,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 2
-  m_Camera: {fileID: 2011444359}
+  m_Camera: {fileID: 736825118}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
